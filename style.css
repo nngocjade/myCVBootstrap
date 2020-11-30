@@ -39,6 +39,10 @@ body {
   margin-top: 20px;
 }
 
+/* PORTFOLIO */
+#portfolio {
+  margin: 2rem 0;
+}
 /* CARDS */
 
 .card_container {
@@ -54,6 +58,13 @@ body {
   height: fit-content;
   margin: 2rem 0;
   padding: 0;
+}
+
+.card:hover {
+  background-color: #d7763563;
+  transform: scale(1.05);
+  transition: 0.25s;
+  border: none;
 }
 
 /* ABOUT ME */
