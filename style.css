@@ -69,12 +69,12 @@ body {
 
 /* SKILL */
 .icon-style {
-	font-weight: 800;
-	font-size: 128px;
-	color: rgb(255, 187, 0);
+  font-weight: 800;
+  font-size: 128px;
+  color: rgb(255, 187, 0);
 }
 
-.text-muted{
+.text-muted {
   margin: 1rem 2rem 3rem 2rem;
 }
 
