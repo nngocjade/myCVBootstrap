@@ -40,13 +40,14 @@ body {
 }
 
 /* LOGO */
-.logo{
+.logo {
   width: 2.5em;
   height: 2.5em;
   border: 1px solid gray;
   border-radius: 50%;
-  text-align: center;
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* PORTFOLIO */
